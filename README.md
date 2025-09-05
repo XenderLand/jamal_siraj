@@ -6,7 +6,9 @@
 <h1 align="center">Hi, I'm Jamal! 👋</h1>
 <p align="center">
   <a href="https://github.com/XenderLand"><b>Full-Stack Developer</b></a> ·
-  <a href="https://www.linkedin.com/in/jamalraj/"><b>Cybersecurity Professional</b></a>
+  <a href="https://www.linkedin.com/in/jamalraj/"><b>Project Manager</b></a>
+  <a href="https://www.linkedin.com/in/jamalraj/"><b>IT Support</b></a>
+  <a href="https://www.linkedin.com/in/jamalraj/"><b>System Analyst</b></a>
 </p>
 
 <!-- Badges -->
@@ -29,9 +31,9 @@
 <!-- Skills -->
 <h2 id="-skills--tooling">🧰 Skills &amp; Tooling</h2>
 <p>
-  <b>Front-End:</b> React, React Native (Expo), TypeScript, Tailwind CSS<br/>
+  <b>Front-End:</b> React, React Native (Expo), Next.js, Flutter, TypeScript, Tailwind CSS<br/>
   <b>Back-End:</b> Node.js, Express, Firebase Functions, REST APIs<br/>
-  <b>Cloud &amp; Data:</b> Firebase (Auth, Firestore, Storage, FCM), MongoDB, Supabase<br/>
+  <b>Cloud &amp; Data:</b> Firebase (Auth, Firestore, Storage, FCM), MongoDB, Supabase, PostgreSQL<br/>
   <b>Security:</b> Identity &amp; Access Management, OWASP, Secure Coding, Threat Modeling<br/>
   <b>Other:</b> GitHub Actions, CI/CD, Docker (basics), DevOps fundamentals
 </p>
@@ -43,7 +45,7 @@
   <li>
     <b>uniVerse – Social App for Universities</b><br/>
     <i>Anonymous student social media platform with chat, groups, posts, and notifications.</i><br/>
-    • Built with React Native (Expo), Firebase, and OneSignal<br/>
+    • Built with React Native (Expo) and Firebase<br/>
     <a href="https://github.com/XenderLand/uniVerse">Repo</a>
   </li>
   <br/>
@@ -59,7 +61,7 @@
   <li>
     <b>HomeCare Management System (HMS)</b><br/>
     <i>Web-based platform for remote patient care management, scheduling, billing, and reporting.</i><br/>
-    • Designed for St. Luke’s HomeCare Unit using React, Firebase, Node.js<br/>
+    • Designed for St. Luke’s HomeCare Unit using React, Firebase, Node.js, MongoDB<br/>
     <a href="https://github.com/XenderLand/HomeCare-Management-System">Repo</a>
   </li>
   <br/>
@@ -80,13 +82,6 @@
   </li>
 </ul>
 
-<!-- Security / Cloud -->
-<h2 id="-cybersecurity--cloud">🔐 Cybersecurity &amp; Cloud</h2>
-<ul>
-  <li>Penetration testing &amp; secure coding practices</li>
-  <li>Cloud IAM (Firebase, GCP, Azure AD)</li>
-  <li>Automated log monitoring &amp; alerting pipelines</li>
-</ul>
 
 <!-- Contact -->
 <h2 id="-contact">🤳 Connect with Me</h2>
